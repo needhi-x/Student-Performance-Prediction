@@ -44,16 +44,17 @@ streamlit run app.py
 ![Prediction](images/prediction_result.png)
 
 ### 📊 Feature Importance  
-![Graph](images/feature_importance.png)
+![Graph](images/feature_graph.png)
 
 ### 📄 Sample Report 
-![Report](images/sample_report.png)
+![Report](images/report_sample.png)
 
 
 ---
 
 ## 🌐 Links
 🔗 GitHub:https://github.com/needhi-x/Student-Performance-Prediction
+
 🚀 Live Demo:https://student-performance-prediction-8duvrikgmqvtm2z3bsfslm.streamlit.app/
 
 ---
